@@ -1,7 +1,7 @@
 {
   "name": "async-generators",
   "description": "convenience package combining the @async-generator packages ",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "Meirion Hughes",
     "email": "crakinshot@yahoo.com",
