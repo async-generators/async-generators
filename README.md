@@ -1,4 +1,6 @@
 # async-generators
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/async-generators/async-generators.svg)](https://greenkeeper.io/)
 ![logo](https://avatars1.githubusercontent.com/u/31987273?v=4&s=100)
 
 convenience package combining the @async-generator packages
