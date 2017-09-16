@@ -1,7 +1,7 @@
 # async-generators
 ![logo](https://avatars1.githubusercontent.com/u/31987273?v=4&s=100)
 
-convenience package combining the @async-generator packages
+convenience package combining the `@async-generators` packages
 
 [![NPM version][npm-image]][npm-url]
 [![Travis Status][travis-image]][travis-url]
