@@ -1,5 +1,5 @@
 # async-generators
-![logo](https://avatars1.githubusercontent.com/u/31987273?v=4&s=100)
+![logo](https://avatars1.githubusercontent.com/u/31987273?v=4&s=110)
 
 convenience package combining the `@async-generators` packages
 
