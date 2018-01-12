@@ -60,6 +60,6 @@
     "instrument": true
   },
   "dependencies": {
-    "@async-generators/equal": "^0.5.0"
+    "@async-generators/equal": "^0.6.0"
   }
 }
