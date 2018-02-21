@@ -1,8 +1,9 @@
 {
   "extends": "./tsconfig.json",
   "compilerOptions": {
+    "target": "es2017",
     "declaration": true,
-    "sourceMap": true
+    "sourceMap": false
   },
   "include": [
     "src"

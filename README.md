@@ -1,7 +1,7 @@
 # async-generators
 ![logo](https://avatars1.githubusercontent.com/u/31987273?v=4&s=110)
 
-convenience package combining the `@async-generators` packages
+convenience package combining the down-compiled `@async-generators` packages
 
 [![NPM version][npm-image]][npm-url]
 [![Travis Status][travis-image]][travis-url]
@@ -9,8 +9,6 @@ convenience package combining the `@async-generators` packages
 [![Dependencies][dep-image]][dep-url]
 [![Greenkeeper][green-image]][green-url]
 
-
->
   * <a href="#exports">Exports</a>
   * <a href="#ts">Typescript</a>
 

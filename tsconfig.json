@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "target": "esnext",
+    "target": "es2015",
     "moduleResolution": "node",
     "module": "commonjs",
     "lib": [
@@ -8,10 +8,11 @@
       "es2017",
       "esnext.asynciterable"
     ],
+
     "types": [
       "node",
       "mocha",
-      "chai"
+      "chai"      
     ]
   }
 }

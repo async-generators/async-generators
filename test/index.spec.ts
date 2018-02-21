@@ -1,5 +1,4 @@
 import { equal } from '../src';
-
 import { expect } from 'chai';
 
 describe("async-generator", () => {
@@ -11,4 +10,4 @@ describe("async-generator", () => {
 
     expect(result).to.be.true;
   }) 
-})
+});
