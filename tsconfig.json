@@ -3,6 +3,7 @@
     "target": "es2015",
     "moduleResolution": "node",
     "module": "commonjs",
+    "importHelpers": true,
     "lib": [
       "dom",
       "es2017",
