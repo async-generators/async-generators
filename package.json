@@ -36,7 +36,7 @@
     "@types/mocha": "^2.2.43",
     "@types/node": "^8.0.28",
     "chai": "^4.1.2",
-    "codecov": "^2.3.0",
+    "codecov": "^3.0.3",
     "dash-2-camel": "^0.1.0",
     "gulp": "^3.9.1",
     "gulp-rename": "^1.2.2",
