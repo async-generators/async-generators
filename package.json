@@ -34,7 +34,7 @@
     "@async-generators/to-array": "^0.1.0",
     "@types/chai": "^4.0.4",
     "@types/mocha": "^2.2.43",
-    "@types/node": "^8.0.28",
+    "@types/node": "^10.12.18",
     "chai": "^4.1.2",
     "codecov": "^2.3.0",
     "dash-2-camel": "^0.1.0",
