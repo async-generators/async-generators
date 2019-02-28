@@ -88,9 +88,10 @@
   version "2.2.43"
   resolved "https://registry.yarnpkg.com/@types/mocha/-/mocha-2.2.43.tgz#03c54589c43ad048cbcbfd63999b55d0424eec27"
 
-"@types/node@^8.0.28":
-  version "8.0.28"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-8.0.28.tgz#86206716f8d9251cf41692e384264cbd7058ad60"
+"@types/node@^11.9.6":
+  version "11.9.6"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-11.9.6.tgz#c632bbcc780a1349673a6e2e9b9dfa8c369d3c74"
+  integrity sha512-4hS2K4gwo9/aXIcoYxCtHpdgd8XUeDmo1siRCAH3RziXB65JlPqUFMtfy9VPj+og7dp3w1TFjGwYga4e0m9GwA==
 
 abbrev@1:
   version "1.1.1"
