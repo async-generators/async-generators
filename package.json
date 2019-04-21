@@ -38,7 +38,7 @@
     "chai": "^4.1.2",
     "codecov": "^2.3.0",
     "dash-2-camel": "^0.1.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.1",
     "gulp-rename": "^1.2.2",
     "gulp-replace": "^0.6.1",
     "mocha": "^5.0.1",
